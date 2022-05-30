@@ -1,5 +1,3 @@
-package Week14;
-
 import java.awt.Color;
 
 import javax.swing.JFrame;
