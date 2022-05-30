@@ -1,5 +1,3 @@
-package Week14;
-
 import java.io.File;
 
 import javax.swing.filechooser.FileFilter;
