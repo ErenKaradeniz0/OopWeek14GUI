@@ -1,5 +1,3 @@
-package Week14;
-
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
